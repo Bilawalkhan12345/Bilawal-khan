@@ -119,10 +119,10 @@ A responsive developer portfolio showcasing my projects, technical skills, inter
 ## 💡 Current Focus
 
 ```text
-ASP.NET Core      ████████████████████░  90%
-C#                ███████████████████░░  85%
-SQL Server        ██████████████████░░░  80%
-Entity Framework  █████████████████░░░░  75%
-MVC               █████████████████░░░░  75%
-JavaScript        ███████████████░░░░░░  70%
-HTML / CSS        ██████████████████░░░  80%
+ASP.NET Core       ████████░░░░░░░░░░░░  40%
+C#                 ████████░░░░░░░░░░░░  40%
+SQL Server         ██████████░░░░░░░░░░  50%
+Entity Framework   ██████░░░░░░░░░░░░░░  30%
+MVC                ████████████░░░░░░░░  60%
+JavaScript         ████░░░░░░░░░░░░░░░░  20%
+HTML / CSS         ██████████████░░░░░░  70%
